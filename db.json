@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "name": "Trần Minh hippe",
+      "price": 111,
+      "id": 1
+    },
+    {
+      "name": "Trần Minh Hiếu",
+      "price": 123,
+      "id": 2
+    },
+    {
+      "name": "Trần Minh Hiếu",
+      "price": 123,
+      "id": 3
+    },
+    {
+      "name": "Trần Minh Hiếu",
+      "price": 123,
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "email": "hehe@gmail.com",
+      "password": "$2a$10$UU1D2kDyadYZor8BJLuYn.GxbQxss0yPjKS51e4zei2ziuxnHYy2e",
+      "id": 1
+    }
+  ]
+}
